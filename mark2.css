@@ -1,0 +1,26 @@
+#header {
+    padding: 1rem;
+    background-color: rgb(173, 219, 230);
+    text-align: center;
+}
+#img,
+#title,
+#blog {
+    display: block; 
+    margin-bottom: 10px; 
+    margin-left: 10px;
+}
+
+#image-url,
+#title-text,
+#blog-content {
+    display: block; 
+    margin-bottom: 20px; 
+    margin-left: 10px;
+}
+
+button[type="submit"] {
+    display: block; 
+    margin-top: 20px; 
+    margin-left: 15px;
+}
